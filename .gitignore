@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+.venv/
+env/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Output directories
+Split_Chapters/
